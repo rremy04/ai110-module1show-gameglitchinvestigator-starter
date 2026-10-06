@@ -53,7 +53,7 @@ Document at least 3 bugs you found. Add rows as needed.
 - "The cause tests/test_game_logic.py:1: in <module> from logic_utils import check_guess
 E   ModuleNotFoundError: No module named 'logic_utils' logic_utils.py sits in the project root, but the test file is in tests/. When you run plain pytest, Python only adds the tests/ folder to its import path, not the folder above it, so it can't see logic_utils. Fix options
 Quick fix: run pytest through Python, which adds the current folder to the path: bash python -m pytest"
-- I ran to see if the test is above the secret or below the secret if it would send the right answer of it saying Go Lower or Go Higher
+- I ran to see if the test is above the secret or below the secret if it would send the right answer of it saying Go Higher or Go Lower
 
 ---
 
