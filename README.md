@@ -25,9 +25,10 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
+- [To guess the secret number and the game will reveal through baloons if you've guessed the right number ] Describe the game's purpose.
+- [Even when I typed what eneded up being the secret number it wasn't saying that I found it. Also, I noticed that the history wouldnn't contain all of my previous guesses so I can't even remember what I previously guessed. And the number attempts stop decreasing.] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
+
 
 ## 📸 Demo Walkthrough
 
